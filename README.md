@@ -8,7 +8,12 @@
 ## Resources
 
 ## Cloud Computing 
--
+- https://github.com/learntocloud/learn-to-cloud
+
+## aws
+- https://github.com/donnemartin/awesome-aws
+- https://github.com/dabit3/awesome-aws-amplify
+- https://github.com/4ndersonLin/awesome-cloud-security
 
 ## Blockchain
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
