@@ -12,3 +12,4 @@
 - https://stackoverflow.com/questions/42870536/pandas-fillna-of-multiple-columns-with-mode-of-each-column4
 - https://stackoverflow.com/questions/17679089/pandas-dataframe-groupby-two-columns-and-get-counts
 - https://www.adamsmith.haus/python/answers/how-to-build-a-pandas-dataframe-with-a-for-loop-in-python
+- https://stackoverflow.com/questions/17102329/matplotlib-make-all-values-in-range-show-up-on-x-axis
