@@ -6,3 +6,7 @@
 - https://www.geeksforgeeks.org/how-to-merge-two-csv-files-by-specific-column-using-pandas-in-python/
 - https://thispointer.com/pandas-select-columns-with-nan-values/
 - https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns
+- https://pythonguides.com/pandas-replace-nan-with-0/
+- https://datatofish.com/count-nan-pandas-dataframe/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
+- https://stackoverflow.com/questions/42870536/pandas-fillna-of-multiple-columns-with-mode-of-each-column
