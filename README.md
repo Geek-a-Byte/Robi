@@ -16,3 +16,4 @@
 - https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org
 - https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
 - https://pythontic.com/pandas/dataframe-plotting/scatter%20plot
+- https://www.codegrepper.com/code-examples/python/reset+row+numbers+pandas
